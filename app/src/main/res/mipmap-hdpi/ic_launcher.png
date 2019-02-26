@@ -1,0 +1,35 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="462" y="76" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="412" y="93" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="175" />
+    <location key="AndroidExtendedDeviceChooserDialog.0.0.1366.768" x="388" y="138" />
+    <location key="#Project_Structure.0.0.1366.768" x="326" y="0" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="263" y="12" />
+    <location key="SettingsEditor.0.0.1366.768" x="164" y="0" />
+    <location key="chooseDestDirectoryDialog.0.0.1366.768" x="499" y="135" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="401" y="153" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1366.768" x="263" y="112" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1366.768" x="230" y="155" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="104" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="112" />
+    <location key="findTextDialog.0.0.1366.768" x="476" y="92" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="12" />
+    <location key="OptionsEditor.0.0.1366.768" x="163" y="0" />
+    <location key="AndroidThemeDialog.0.0.1366.768" x="263" y="62" />
+    <location key="#app.0.0.1366.768" x="483" y="0" />
+    <location key="IdeErrosDialog.0.0.1366.768" x="314" y="172" />
+    <location key="com.android.tools.idea.gradle.structure.editors.MavenDependencyLookupDialog.0.0.1366.768" x="400" y="214" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="482" y="65" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="435" y="197" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1366.768" x="450" y="217" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="215" y="97" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1366.768" x="407" y="143" />
+    <location key="AndroidProcessChooserDialog.0.0.1366.768" x="532" y="129" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1366.768" x="250" y="274" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1366.768" x="473" y="239" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" x="513" y="0" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="406" y="147" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1366.768" x="84" y="0" />
+    <location key="edit.logcat.fil
